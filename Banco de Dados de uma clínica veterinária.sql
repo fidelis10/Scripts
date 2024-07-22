@@ -1,4 +1,4 @@
-/*Exercicio*/
+/*Exercicio Banco de Dados*/
 CREATE DATABASE clínica_veterinária;
 
 USE clínica_veterinária;
